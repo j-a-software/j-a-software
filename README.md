@@ -1,4 +1,3 @@
-<center>
 ### Hello to all! 👋
 
 # Welcome to the Official GitHub profile of J. A. - Full-Stack Developer.
@@ -25,4 +24,3 @@ Some things about me:
 EST. 2019
 
 (c) 2022 J. A. - Full-Stack Developer | (c) 2022 J. A. - Full-Stack Devellopeur
-</center>
