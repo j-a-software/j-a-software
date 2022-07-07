@@ -16,8 +16,6 @@ Some things about me:
 - 💬 Ask me about whatever you think a good question for me might be.
 - ⭐ I’m looking to collaborate on a team both long-term and full-time.
 
-- J. A. - ReactJoey
-
 ## Thank you for your time!
 ### ReactJoey - J. A.
 [ReactJoey here on GitHub](https://github.com/ReactJoey)
