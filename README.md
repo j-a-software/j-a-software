@@ -10,7 +10,7 @@ Some things about me:
 
 - 📫 How to reach me: https://twitter.com/reactjoey
 - ⚡ Fun fact: I love metal, cuisine, film and travel.
-- - 🔭 I’m currently working on Full-Stack Development.
+- 🔭 I am currently working on Full-Stack Development.
 - 🌱 I’m currently learning more advanced coding concepts.
 
 - 🤔 I’m looking for help with the MERN stack or other projects.
