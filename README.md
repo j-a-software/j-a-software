@@ -3,6 +3,7 @@
 # Welcome to the GitHub profile of J. A. | Full-Stack Developer
 
 I specialize primarily in working with the MERN stack of MongoDB, Express.js, React and Node.js.
+
 ![Alt text](https://avatars.githubusercontent.com/u/46306007?v=4 "ReactJoey hero banner with text containing: 'Follow ReactJoey on Twitter!'")
 
 Some things about me:
