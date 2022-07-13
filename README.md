@@ -12,7 +12,7 @@ Some things about me:
 - ⚡ Fun fact: I love metal, cuisine, film and travel.
 - 🔭 I am currently working on Full-Stack Development.
 - 🌱 I’m currently learning more advanced coding concepts.
-- 💬 Ask me about whatever you think a good question might be.
+- 💬 Ask me about whatever you think a good question may be.
 - ⭐ I’m looking to collaborate on a team full-time && long-term.
 
 ## Thank you for your time!
