@@ -13,8 +13,8 @@ Some things about me:
 - 🔭 I am currently working on Full-Stack Development.
 - 🌱 I’m currently learning more advanced coding concepts.
 
+- 💬 Ask me about whatever you think a good question might be.
 - 🤔 I’m looking for help with the MERN stack or other projects.
-- 💬 Ask me about whatever you think a good question for me might be.
 - ⭐ I’m looking to collaborate on a team both long-term and full-time.
 
 ## Thank you for your time!
