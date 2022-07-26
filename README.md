@@ -20,4 +20,4 @@ Some things about me:
 [ReactJoey here on GitHub](https://github.com/ReactJoey)
 EST. 2019
 
-(c) 2022 J. A. - Full-Stack Developer | (c) 2022 J. A. - Full-Stack Dévellopeur
+© 2022 J. A. - Full-Stack Developer. | © 2022 J. A. - Full-Stack Dévellopeur.
