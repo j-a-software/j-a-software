@@ -1,6 +1,6 @@
 ### Hello to all! 👋
 
-# Welcome to the GitHub profile of J. A. | Full-Stack Developer
+# Welcome to the GitHub profile of J. A. | Full Stack Developer
 
 Now happily working. 😄
 [August, 2022]
