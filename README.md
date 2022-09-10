@@ -1,6 +1,4 @@
-### Hello to all! 👋
-
-# Welcome to the GitHub profile of J. A. | Full Stack Software Developer 😄
+## Welcome to the GitHub profile of J. A. | Full Stack Software Developer 😄
 
 ![Alt text](https://avatars.githubusercontent.com/u/46306007?v=4 "ReactJoey hero banner with text containing: 'Follow ReactJoey on Twitter!'")
 
