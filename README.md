@@ -4,7 +4,6 @@
 
 Some things about me:
 
-- 📫 How to reach me: https://twitter.com/reactjoey
 - ⭐ Fun fact: I love metal, cuisine, film and travel.
 - 🌱 I’m currently learning more advanced coding concepts.
 - 💬 Ask me about whatever you think a good question may be.
@@ -13,5 +12,7 @@ Some things about me:
 ## Thank you for your time!
 ### ReactJoey - J. A.
 [ReactJoey here on GitHub](https://github.com/ReactJoey)
+
+- 📫 How to reach me: https://twitter.com/reactjoey
 
 © 2022 J. A. - Full-Stack Developer. | © 2022 J. A. - Full-Stack Dévellopeur.
