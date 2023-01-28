@@ -1,4 +1,4 @@
-## "ReactJoey" ~ J. A. | Web & Mobile Software Developer
+J. A. | Web & Mobile Software Developer
 ### Specializing in ReactJS, Node.JS, React Native: iOS & Android Software Development
 ![Alt text](https://avatars.githubusercontent.com/u/46306007?v=4 "ReactJoey hero banner with text containing: 'Twitter profile'")
 
