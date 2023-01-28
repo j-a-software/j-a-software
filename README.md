@@ -12,6 +12,6 @@ Some things about me:
 - 📫 How to reach me: https://twitter.com/reactjoey
 
 ### Thank you for your time.
-### - "ReactJoey" ~ J. A.
+### ~ J. A.
 
 © 2019-2023 "ReactJoey" ~ J. A. - Software Developer. | © 2019-2023 "ReactJoey" ~ J. A. - Dévellopeur de Logiciels.
