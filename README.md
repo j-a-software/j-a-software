@@ -14,4 +14,6 @@ Some things about me:
 ### Thank you for your time.
 ### ~ J. A.
 
-© 2019-2023 "ReactJoey" ~ J. A. - Software Developer. | © 2019-2023 "ReactJoey" ~ J. A. - Dévellopeur de Logiciels.
+
+© 2019-2023 "ReactJoey" ~ J. A. - Software Developer.
+© 2019-2023 "ReactJoey" ~ J. A. - Dévellopeur de Logiciels.
