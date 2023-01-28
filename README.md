@@ -1,6 +1,6 @@
-# GitHub portfolio for "ReactJoey" ~ J. A. |  Web & Mobile Software Developer
+# GitHub portfolio for "ReactJoey" ~ J. A.
+# Web & Mobile Software Developer
 ## Specializing in ReactJS, Node.JS, React Native: iOS & Android Software Development
-
 ![Alt text](https://avatars.githubusercontent.com/u/46306007?v=4 "ReactJoey hero banner with text containing: 'Twitter profile'")
 
 Some things about me:
@@ -10,10 +10,9 @@ Some things about me:
 - 💬 Ask me about whatever you think a good question may be.
 - 🔭 I'm currently working as a Full-Stack Software Developer.
 
+- 📫 How to reach me: https://twitter.com/reactjoey
+
 ## Thank you for your time.
 ### "ReactJoey" - J. A.
-[GitHub link](https://github.com/ReactJoey)
-
-- 📫 How to reach me: https://twitter.com/reactjoey
 
 © 2019-2023 "ReactJoey" ~ J. A. - Software Developer. | © 2019-2023 "ReactJoey" ~ J. A. - Dévellopeur de Logiciels.
