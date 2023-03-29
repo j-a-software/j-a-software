@@ -1,12 +1,12 @@
-### Joseph M. Alessi | Web & Mobile Software Developer
-#### Specializing in React JS and React Native development.
+## Joseph M. Alessi
+# Web & Mobile Software Developer
+### Specializing in React JS and React Native development.
 
-Some things about me:
+#### Some things about me:
 
 - ⭐ Fun fact: I love metal, cuisine, film and travel.
-- 🌱 I’m currently learning more advanced coding concepts.
-- 💬 Ask me about whatever you think a good question may be.
-- 🔭 I'm currently working as a Full-Stack Software Developer.
+- 🌱 I’m always adding more skills to my overall repertoire.
+- 🔭 I'm happily employed as a Full-Stack Software Developer.
 
 - 📫 How to reach me: https://twitter.com/reactjoey
 
@@ -14,4 +14,4 @@ Some things about me:
 
 ### Thank you!
 
-© 2019-2023 Joseph M. Alessi
+© 2019-2023 Joseph M. Alessi - Web & Mobile Software Developer
