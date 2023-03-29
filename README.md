@@ -1,5 +1,5 @@
-### Specializing in React JS and React Native development.
-Joseph M. Alessi | Web & Mobile Software Developer
+### Joseph M. Alessi | Web & Mobile Software Developer
+#### Specializing in React JS and React Native development.
 
 Some things about me:
 
