@@ -1,6 +1,6 @@
+![Alt text](https://avatars.githubusercontent.com/u/46306007?v=4 "JoeSoftware hero banner with text containing: 'Twitter profile'")
 Joseph M. Alessi | Web & Mobile Software Developer
 ### Specializing in React JS and React Native development.
-![Alt text](https://avatars.githubusercontent.com/u/46306007?v=4 "JoeSoftware hero banner with text containing: 'Twitter profile'")
 
 Some things about me:
 
@@ -12,7 +12,5 @@ Some things about me:
 - 📫 How to reach me: https://twitter.com/reactjoey
 
 ### Thank you for your time.
-### ~ J. A.
-
 
 © 2019-2023 Joseph M. Alessi - Software Developer / Dévellopeur de Logiciels.
