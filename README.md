@@ -1,6 +1,6 @@
-J. A. | Web & Mobile Software Developer
-### Specializing in ReactJS, Node.JS, React Native: iOS & Android Software Development
-![Alt text](https://avatars.githubusercontent.com/u/46306007?v=4 "ReactJoey hero banner with text containing: 'Twitter profile'")
+Joseph M. Alessi | Web & Mobile Software Developer
+### Specializing in React JS and React Native development.
+![Alt text](https://avatars.githubusercontent.com/u/46306007?v=4 "JoeSoftware hero banner with text containing: 'Twitter profile'")
 
 Some things about me:
 
@@ -15,4 +15,4 @@ Some things about me:
 ### ~ J. A.
 
 
-© 2019-2023 "ReactJoey" ~ J. A. - Software Developer / Dévellopeur de Logiciels.
+© 2019-2023 Joseph M. Alessi - Software Developer / Dévellopeur de Logiciels.
