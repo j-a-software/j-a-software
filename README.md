@@ -4,7 +4,7 @@
 
 #### Some things about me:
 
-- ⭐ Fun fact: I love metal, cuisine, film and travel.
+- ⭐ Fun fact: I love metal music, good cuisine, film and travelling.
 - 🌱 I’m always adding more skills to my overall repertoire.
 - 🔭 I'm happily employed as a Full-Stack Software Developer.
 
