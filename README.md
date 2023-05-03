@@ -1,15 +1,16 @@
-# J. A. Software / J. A. Software Developer
-### Specializing in React.JS, Node.JS and React Native development.
+# J. A. Software / Developer
 
-#### Some things about me:
+### I specialize in React.JS, Node.JS and React Native development.
 
-- ⭐ Fun fact: I love metal music, good cuisine, cinema and travelling.
-- 🌱 I’m always upgrading and adding more skills to my repertoire.
-- 🔭 I'm happily employed as a Software Developer.
+#### More about me:
 
-- 📫 How to reach me: https://twitter.com/reactjoey
+- ⭐ I love metal music, good cuisine, cinema, exercise and travelling.
+- 🌱 I’m always upgrading, learning and adding more skills to my repertoire.
+- 🔭 I'm happily employed as a Software Developer and am building my career.
 
-![Alt text](https://avatars.githubusercontent.com/u/46306007?v=4 "J. A. Software hero banner with text containing: 'Twitter profile'")
+- 📫 If you want to reach me: https://twitter.com/reactjoey
+
+![Alt text](https://avatars.githubusercontent.com/u/46306007?v=4 "J. A. Software / Developer logo with text containing: 'Twitter profile'")
 
 ### Thank you!
 
