@@ -8,7 +8,7 @@
 - 🌱 I’m always upgrading, learning and adding more skills to my repertoire.
 - 🔭 I'm happily employed as a Software Developer and am building my career.
 
-- 📫 If you want to reach me: https://twitter.com/j-a-software
+- 📫 If you want to reach me: https://twitter.com/j_a_software
 
 ![Alt text](https://avatars.githubusercontent.com/u/46306007?v=4 "J. A. Software / Developer logo with text containing: 'Twitter profile'")
 
